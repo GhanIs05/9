@@ -15,4 +15,4 @@ plt.ylabel('Sales in Crores')
 plt.legend(loc='upper right')
 plt.xticks(rotation=90)
 plt.yticks(rotation=90)
-plt.show(
+plt.show()
